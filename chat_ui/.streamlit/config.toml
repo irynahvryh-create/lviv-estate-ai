@@ -1,0 +1,9 @@
+# chat_ui/.streamlit/config.toml
+
+[theme]
+base = "dark"              # Базова тема: темна
+primaryColor = "#CFA048"   # Основний колір (золотий, як на картинках)
+backgroundColor = "#121212" # Фон сторінки (дуже темний графіт)
+secondaryBackgroundColor = "#1E1E1E" # Фон бічної панелі та блоків
+textColor = "#E0E0E0"      # Колір тексту (світло-сірий, не різко білий)
+font = "sans serif"        # Шрифт
